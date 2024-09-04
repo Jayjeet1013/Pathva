@@ -1,5 +1,5 @@
 ### PathvaAI: Revolutionizing Travel with Intelligent Solutions
-## PathvaAI is a cutting-edge travel technology platform designed to simplify and enhance the travel planning experience. Our mission is to empower travelers and travel agencies with innovative tools and insights that make journey planning seamless, efficient, and personalized. With PathvaAI, users gain access to a suite of intelligent features that leverage artificial intelligence to optimize travel decisions and streamline the planning process.
+ PathvaAI is a cutting-edge travel technology platform designed to simplify and enhance the travel planning experience. Our mission is to empower travelers and travel agencies with innovative tools and insights that make journey planning seamless, efficient, and personalized. With PathvaAI, users gain access to a suite of intelligent features that leverage artificial intelligence to optimize travel decisions and streamline the planning process.
 
 ## Key Features:
 Smart Recommendations
