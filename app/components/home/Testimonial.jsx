@@ -5,21 +5,21 @@ const testimonies = [
   {
     name: "Arjun Patel",
     position: "Travel Blogger & Enthusiast",
-    image: "https://www.auraui.com/memeimage/man1.jpg",
+    image: "/image/man1.jpg",
     quote:
       "PathvaiAI transformed my travel planning experience. The personalized recommendations and real-time updates are a game-changer!",
   },
   {
     name: "Sanya Verma",
     position: "Adventure Travel Specialist",
-    image: "https://www.auraui.com/memeimage/man2.jpg",
+    image: "/image/man2.jpg",
     quote:
       "The interactive map and destination database provided by PathvaiAI made it so easy to find and explore new travel spots. Highly impressed!",
   },
   {
     name: "Rajiv Mehta",
     position: "Travel Agency Owner",
-    image: "https://www.auraui.com/memeimage/man3.jpg",
+    image: "/image/man4.jpg",
     quote:
       "PathvaiAI has streamlined our travel planning process. The comprehensive data and 24/7 support have been invaluable for both us and our clients.",
   },

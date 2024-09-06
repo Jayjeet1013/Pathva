@@ -42,7 +42,7 @@ const Pricing16 = () => {
               <div className="flex items-center mt-8">
                 <Image
                   className="flex-shrink-0 object-cover w-10 h-10 rounded-full"
-                  src="https://www.auraui.com/memeimage/majnubhai.jpeg"
+                  src="/image/man2.jpg"
                   alt="Majnu Bhai"
                   width={40}
                   height={40}

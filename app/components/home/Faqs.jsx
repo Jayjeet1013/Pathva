@@ -93,17 +93,17 @@ const Faqs1 = () => {
               <div className="relative z-0 flex items-center justify-center -space-x-2 overflow-hidden">
                 <img
                   className="relative z-10 inline-block rounded-full w-14 h-14 ring-4 ring-gray-100"
-                  src="https://auraui.com/memeimage/man2.jpg"
+                  src="/image/man1.jpg"
                   alt=""
                 />
                 <img
                   className="relative z-30 inline-block w-16 h-16 rounded-full ring-4 ring-gray-100"
-                  src="https://auraui.com/memeimage/man4.jpg"
+                  src="/image/man2.jpg"
                   alt=""
                 />
                 <img
                   className="relative z-10 inline-block rounded-full w-14 h-14 ring-4 ring-gray-100"
-                  src="https://auraui.com/memeimage/man1.jpg"
+                  src="/image/man4.jpg"
                   alt=""
                 />
               </div>

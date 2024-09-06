@@ -24,13 +24,7 @@ const Header1 = () => {
         <nav className="relative flex items-center justify-between h-16 lg:rounded-md lg:h-24 lg:px-8 lg:py-6">
           <div className="flex-shrink-0">
             <Link href="#" title="Aura UI" className="flex">
-              {/* <Image
-                className="w-auto h-8 lg:h-10"
-                src="https://www.auraui.com/logo-light.png"
-                alt="Aura UI Logo"
-                height={200}
-                width={200}
-              /> */}
+              
               <h2 className="font-bold text-black text-[30px] "> PathvaAI</h2>
             </Link>
           </div>
